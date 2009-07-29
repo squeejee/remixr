@@ -1,0 +1,27 @@
+{
+  "totalPages": 1,
+  "currentPage": 1,
+  "queryTime": "0.003",
+  "from": 1,
+  "total": 1,
+  "to": 1,
+  "stores": [
+    {
+      "fullPostalCode": "02184",
+      "city": "Braintree",
+      "longName": "Best Buy - Braintree",
+      "name": "Braintree",
+      "region": "MA",
+      "country": "US",
+      "lng": -70.999031,
+      "postalCode": "02184",
+      "phone": "781-848-1100",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-7",
+      "lat": 42.216267,
+      "address": "550 Grossman Dr",
+      "storeId": 530
+    }
+  ],
+  "canonicalUrl": "\/v1\/stores(postalCode=\"02184\")?format=json&apiKey=5b4tk8akphtrpt8ahecqc4yk",
+  "totalTime": "0.005"
+}
