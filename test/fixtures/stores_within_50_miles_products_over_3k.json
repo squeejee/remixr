@@ -1,0 +1,4434 @@
+{
+  "totalPages": 3,
+  "currentPage": 1,
+  "queryTime": "0.011",
+  "from": 1,
+  "total": 26,
+  "to": 10,
+  "stores": [
+    {
+      "fullPostalCode": "76205",
+      "city": "Denton",
+      "longName": "Best Buy - Denton",
+      "name": "Denton",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -97.10067,
+      "postalCode": "76205",
+      "phone": "940-384-9581",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 11-8",
+      "lat": 33.192524,
+      "address": "1800 S Loop 288, Ste 102 Bldg 1 ",
+      "distance": 9.79,
+      "storeId": 827
+    },
+    {
+      "fullPostalCode": "75034",
+      "city": "Frisco",
+      "longName": "Best Buy - Frisco",
+      "name": "Frisco",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -96.83974,
+      "postalCode": "75034",
+      "phone": "214-872-2079",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 10-8",
+      "lat": 33.17477,
+      "address": "5299 Eldorado Pkwy",
+      "distance": 10.79,
+      "storeId": 1773
+    },
+    {
+      "fullPostalCode": "75034",
+      "city": "Frisco",
+      "longName": "Best Buy - Frisco",
+      "name": "Frisco",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -96.807182,
+      "postalCode": "75034",
+      "phone": "972-712-3939",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 11-8",
+      "lat": 33.108253,
+      "address": "3333 Preston Rd #200",
+      "distance": 15.49,
+      "storeId": 180
+    },
+    {
+      "fullPostalCode": "75056",
+      "city": "Lewisville",
+      "longName": "Best Buy - The Colony",
+      "name": "The Colony",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -96.88915,
+      "postalCode": "75056",
+      "phone": "214-469-2979",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 11-8",
+      "lat": 33.06501,
+      "address": "4800 State Hwy 121 ",
+      "distance": 15.93,
+      "storeId": 1796
+    },
+    {
+      "fullPostalCode": "75022",
+      "city": "Flower Mound",
+      "longName": "Best Buy - Flower Mound",
+      "name": "Flower Mound",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -97.080109,
+      "postalCode": "75022",
+      "phone": "972-874-0965",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 9-9; Sun: 10-8",
+      "lat": 33.06926,
+      "address": "6060 Long Prairie Rd",
+      "distance": 16.15,
+      "storeId": 1038
+    },
+    {
+      "fullPostalCode": "75067",
+      "city": "Lewisville",
+      "longName": "Best Buy - Lewisville",
+      "name": "Lewisville",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -96.963219,
+      "postalCode": "75067",
+      "phone": "214-488-8624",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 10-8",
+      "lat": 32.999397,
+      "address": "2601 S Stemmons Fwy",
+      "distance": 19.73,
+      "storeId": 258
+    },
+    {
+      "fullPostalCode": "75002",
+      "city": "Allen",
+      "longName": "Best Buy - Allen",
+      "name": "Allen",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -96.65549,
+      "postalCode": "75002",
+      "phone": "469-675-8924",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 10-8",
+      "lat": 33.1267,
+      "address": "190 E Stacy Rd Bldg 3000",
+      "distance": 21.33,
+      "storeId": 1780
+    },
+    {
+      "fullPostalCode": "75074",
+      "city": "Plano",
+      "longName": "Best Buy - Plano ",
+      "name": "Plano ",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        },
+        {
+          "shippingWeight": "81.6",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9213246,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            }
+          ],
+          "sku": 9300605,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9300605",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "63.9 lbs. with stand (51.1 lbs. without)",
+          "salePrice": 3399.98,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "10"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "240Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-04-28T12:14:27",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9300\/9300605_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "33-4\/9\" with stand (31-1\/3\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9300\/9300605_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2194,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3999.98,
+          "salesRankShortTerm": 242,
+          "nationalFeatured": false,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 456,
+          "department": "MAGNOLIA HOME THEATR",
+          "energyGuideImage": null,
+          "customerReviewCount": 18,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218079754022\/9300605\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 240Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9300\/9300605_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified4 HDMI inputs; 2 USB ports; black\/red Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.7,
+          "warrantyParts": "1 year limited",
+          "depth": "12-1\/8\" with stand (1-1\/4\" without)",
+          "topViewImage": null,
+          "upc": "036725229938",
+          "class": "MHT FLAT PANEL TV",
+          "departmentId": 14,
+          "active": true,
+          "classId": 306,
+          "subclass": "MHT 55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-18T00:14:04",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9300\/9300605cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat175400050000",
+              "id": "promo135700050000"
+            }
+          ],
+          "warrantyLabor": "1 year limited",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B8000",
+          "longDescription": "Learn more\nabout Magnolia \n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\tPremium\nInstallation \n\t\t\t\n\t\t\n\t\n\t\n\t\t&nbsp;\n\t\n\n\n\t \n\t\t\n\t \n\t \n\t\t\n\t\t\t\n\t\t\t\n\t\tBring your favorite movies, TV shows and sporting events to life on this LCD-LED HDTV that features an Auto Motion Plus 240Hz screen refresh rate to greatly reduce blur during fact action sequences and Wide Color Enhancer Pro technology to optimize color hues.\n\n\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\n\t\n\t\n\t\t\n\t \n\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-04-28T12:14:27",
+          "startDate": "2009-04-27",
+          "subclassId": 3984,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9300\/9300605_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9300\/9300605_s.gif",
+          "leftViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9300\/9300605le.jpg",
+          "type": "HardGood",
+          "productId": 1218079754022,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9300\/9300605fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T22:49:15",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-04-28T12:14:27",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the movie, show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues."
+            },
+            {
+              "feature": "Auto Motion Plus 240Hz screen refresh rate\nAlong with an ultrafast 2 ms response time eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "20W speaker system\nAlong with SRS TruSurround HD and a built-in subwoofer delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/4\" deep)\nMounts on the included crystal neck swivel stand and is ideal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom), PC (bottom), 1 Ethernet (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish red tone."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer, and game mode."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": null,
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9300\/9300605_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -96.702805,
+      "postalCode": "75074",
+      "phone": "972-578-8000",
+      "hours": "Mon: 10-9:00; Tue: 10-9:00; Wed: 10-9:00; Thurs: 10-9:00; Fri: 10-10; Sat: 10-10; Sun: 10-8",
+      "lat": 33.035957,
+      "address": "2800 N Central Expy",
+      "distance": 23.21,
+      "storeId": 202
+    },
+    {
+      "fullPostalCode": "75063",
+      "city": "Irving",
+      "longName": "Best Buy - North Irving",
+      "name": "North Irving",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -96.972069,
+      "postalCode": "75063",
+      "phone": "972-910-0330",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 11-8",
+      "lat": 32.920174,
+      "address": "1900 Market Place Blvd ",
+      "distance": 25.2,
+      "storeId": 1032
+    },
+    {
+      "fullPostalCode": "76051",
+      "city": "Grapevine",
+      "longName": "Best Buy - Grapevine",
+      "name": "Grapevine",
+      "region": "TX",
+      "products": [
+        {
+          "shippingWeight": "78",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8749358,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 9234303,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961607,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9251677,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9291795,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "upsell_products",
+              "sku": 9245872,
+              "active": true
+            }
+          ],
+          "sku": 9234198,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=9234198",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "60.4 lbs. with stand (48.9 lbs. without)",
+          "salePrice": 3099.99,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LED Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "54-3\/5&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "3,000,000:1"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "Yes"
+            },
+            {
+              "name": "Picture-In-Picture",
+              "value": "Yes"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "No"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "No"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "1"
+            },
+            {
+              "name": "Watts\/Channel",
+              "value": "15"
+            },
+            {
+              "name": "Speakers",
+              "value": "2"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 600.0,
+          "inStoreAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "largeFrontImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sa.jpg",
+          "freeShipping": true,
+          "navigability": true,
+          "height": "34-4\/7\" with stand (32\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2073,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.99,
+          "salesRankShortTerm": 263,
+          "nationalFeatured": true,
+          "manufacturer": "Samsung",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 535,
+          "department": "VIDEO",
+          "energyGuideImage": null,
+          "customerReviewCount": 36,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218068137530\/9234198\/",
+          "advertisedPriceRestriction": false,
+          "name": "Samsung 55\" Class \/ 1080p \/ 120Hz \/ LCD-LED HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_sc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 4.6,
+          "warrantyParts": "1 year",
+          "depth": "12\" with stand (1-1\/5\" without)",
+          "topViewImage": null,
+          "upc": "036725229815",
+          "class": "FLAT PANEL TV",
+          "departmentId": 2,
+          "active": true,
+          "classId": 276,
+          "subclass": "55\" + LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-26T00:15:47",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "On Sale",
+              "url": "",
+              "id": "OS"
+            },
+            {
+              "text": "Save $50: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179300050007",
+              "id": "promo138100050003"
+            },
+            {
+              "text": "10% Off Bose Speaker System: See How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat167300050000",
+              "id": "promo129200050000"
+            },
+            {
+              "text": "Save $40: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050010",
+              "id": "promo138400050003"
+            },
+            {
+              "text": "Save $100: Find Out How",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179800050004",
+              "id": "promo138500050000"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat179600050011",
+              "id": "promo138400050004"
+            }
+          ],
+          "warrantyLabor": "1 year",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "UN55B7100",
+          "longDescription": "Enjoy brilliant images on this HDTV that features a 4 ms response time for eliminating blurring and streaking during fast-action scenes. The Touch of Color design accents the bezel with a stylish gray tone for a stylish look.\n\nHave questions about this product?Ask Mr. Samsung, fellow shoppers and Best Buy staff. Share your answers.",
+          "onlineAvailabilityUpdateDate": "2009-03-05T10:15:01",
+          "startDate": "2009-02-27",
+          "subclassId": 6011,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_s.gif",
+          "leftViewImage": null,
+          "type": "HardGood",
+          "productId": 1218068137530,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198fp.gif",
+          "onSale": true,
+          "itemUpdateDate": "2009-07-28T20:09:05",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2009-03-05T10:15:01",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "54-3\/5\" screen measured diagonally from corner to corner\nEveryone will have a great view of the show or game."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Ultra Clear Panel\nProvides crisp image details, natural skin tones, shadow detail and vibrant colors."
+            },
+            {
+              "feature": "Edge LED BLU\nDelivers more natural color representation for lifelike picture motion."
+            },
+            {
+              "feature": "Wide Color Enhancer Pro\nDelivers more natural looking colors by optimizing color hues. Brilliant 3,000,000:1 contrast for enhanced image texture and detail."
+            },
+            {
+              "feature": "Wide 178&#176; horizontal and vertical viewing angles\nMake every seat the best in the house."
+            },
+            {
+              "feature": "Ultrafast 4 ms response time\nWith Auto Motion Plus 120Hz processing eliminates blurring and streaking in fast-action scenes and video games."
+            },
+            {
+              "feature": "30W speaker system with subwoofer\nAlong with SRS TruSurround Sound HD technology delivers a virtual surround sound experience."
+            },
+            {
+              "feature": "Ultraslim design (1-1\/5\" deep)\nIdeal for wall mounting (with optional mounting kit, not included)."
+            },
+            {
+              "feature": "2 WiseLink USB 2.0 ports\nFor quick connection of a digital camera, MP3 player or other USB device."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast content."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (side), 1 component video (bottom) and 1 PC (bottom)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical audio (side)."
+            },
+            {
+              "feature": "V-Chip parental controls\nGive you the option of blocking undesirable material that you don't want your kids to see."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nDesigned to use less energy and meets strict energy efficiency guidelines set by the Environmental Protection Agency and U.S. Department of Energy."
+            },
+            {
+              "feature": "Anynet Plus (HDMI-CEC)\nAllows peripheral A\/V devices such as a DVD player to be controlled by the TV's remote."
+            },
+            {
+              "feature": "Useful additional features\nInclude trilingual (English, French, Spanish) on-screen menus, picture-in-picture, variable sleep timer and game mode."
+            },
+            {
+              "feature": "Ethernet connectivity with Medi@2.0\nServices include Internet@TV-Content service, DLNA Wireless and Content Library with 2GB flash memory that features exercise programming, children's edutainment content and more."
+            },
+            {
+              "feature": "Touch of Color design\nAccents the bezel with a stylish gray tone."
+            }
+          ],
+          "width": "52\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=9234198",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/9234\/9234198_ba.jpg",
+          "onlineAvailability": false
+        },
+        {
+          "shippingWeight": "75",
+          "printOnly": false,
+          "description": null,
+          "inStoreAvailability": true,
+          "related": [
+            {
+              "title": null,
+              "type": "complementary_products",
+              "sku": 8594069,
+              "active": true
+            },
+            {
+              "title": null,
+              "type": "psp_prp_products",
+              "sku": 8961974,
+              "active": true
+            }
+          ],
+          "sku": 8996508,
+          "cjAffiliateAddToCartUrl": null,
+          "search": null,
+          "addToCartUrl": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=1uYnAnk1pohGgQVwEClo8PHv4SN4C5MeL&qvsids=8996508",
+          "affiliateAddToCartUrl": null,
+          "new": false,
+          "accessoriesImage": null,
+          "weight": "84 lbs. with stand (73 lbs. without)",
+          "salePrice": 3699.98,
+          "details": [
+            {
+              "name": "TV Type",
+              "value": "LCD Flat-Panel"
+            },
+            {
+              "name": "Screen Size",
+              "value": "46&quot;"
+            },
+            {
+              "name": "Aspect Ratio",
+              "value": "16:9"
+            },
+            {
+              "name": "Display Type",
+              "value": "Flat-panel LCD"
+            },
+            {
+              "name": "Built-In_DVR",
+              "value": "No"
+            },
+            {
+              "name": "Maximum Resolution",
+              "value": "1920 x 1080"
+            },
+            {
+              "name": "Vertical Resolution",
+              "value": "1080p"
+            },
+            {
+              "name": "Contrast Ratio",
+              "value": "1,000,000:1 (dynamic); 3000:1 (native)"
+            },
+            {
+              "name": "Comb Filter",
+              "value": "3D digital"
+            },
+            {
+              "name": "Media Card Slot",
+              "value": "No"
+            },
+            {
+              "name": "USB Port",
+              "value": "No"
+            },
+            {
+              "name": "HDMI Inputs",
+              "value": "4"
+            },
+            {
+              "name": "DVI Inputs",
+              "value": "No"
+            },
+            {
+              "name": "S-Video Inputs",
+              "value": "1"
+            },
+            {
+              "name": "Component Video Inputs",
+              "value": "2"
+            },
+            {
+              "name": "Composite Inputs",
+              "value": "3"
+            },
+            {
+              "name": "PC Inputs",
+              "value": "1"
+            },
+            {
+              "name": "RF Antenna Input",
+              "value": "1"
+            },
+            {
+              "name": "Audio Outputs",
+              "value": "2"
+            },
+            {
+              "name": "Speakers",
+              "value": "8"
+            },
+            {
+              "name": "Simulated Surround",
+              "value": "Yes"
+            },
+            {
+              "name": "Sound Leveler",
+              "value": "Yes"
+            },
+            {
+              "name": "Language Options",
+              "value": "English, French, Spanish"
+            },
+            {
+              "name": "V-Chip",
+              "value": "Yes"
+            },
+            {
+              "name": "Sleep\/Alarm Timer",
+              "value": "Sleep timer, yes; alarm, no"
+            },
+            {
+              "name": "Channel Labeling",
+              "value": "Yes"
+            },
+            {
+              "name": "Remote Control Type",
+              "value": "Standard"
+            },
+            {
+              "name": "ENERGY STAR Qualified",
+              "value": "Yes"
+            },
+            {
+              "name": "Screen Refresh Rate",
+              "value": "120Hz"
+            }
+          ],
+          "dollarSavings": 0.0,
+          "inStoreAvailabilityUpdateDate": "2008-10-16T01:32:05",
+          "largeFrontImage": null,
+          "freeShipping": true,
+          "navigability": true,
+          "height": "29\" with stand (27\" without)",
+          "color": null,
+          "remoteControlImage": null,
+          "largeImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/8996\/8996508_rb.jpg",
+          "format": null,
+          "salesRankLongTerm": 2370,
+          "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+          "regularPrice": 3699.98,
+          "salesRankShortTerm": 270,
+          "nationalFeatured": false,
+          "manufacturer": "Sony",
+          "onlineAvailabilityText": "Delivery Most Areas",
+          "salesRankMediumTerm": 558,
+          "department": "MAGNOLIA HOME THEATR",
+          "energyGuideImage": null,
+          "customerReviewCount": 5,
+          "mobileUrl": "http:\/\/m.bestbuy.com\/r\/1218008113715\/8996508\/",
+          "advertisedPriceRestriction": true,
+          "name": "Sony BRAVIA XBR \/ 46\" Class \/ 1080p \/ 120Hz \/ LCD HDTV",
+          "image": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/8996\/8996508_rc.jpg",
+          "shippingCost": 0.0,
+          "shortDescription": "ENERGY STAR Qualified4 HDMI inputs; PC input; black cabinet; 16:9 aspect ratio",
+          "specialOrder": false,
+          "customerReviewAverage": 5.0,
+          "warrantyParts": "18 months",
+          "depth": "12-3\/8\" with stand (5-4\/7\" without)",
+          "topViewImage": null,
+          "upc": "027242739062",
+          "class": "MHT FLAT PANEL TV",
+          "departmentId": 14,
+          "active": true,
+          "classId": 306,
+          "subclass": "MHT 43\" - 55\" LCD",
+          "rightViewImage": null,
+          "cjAffiliateUrl": null,
+          "priceUpdateDate": "2009-07-30T08:11:06",
+          "alternateViewsImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/8996\/8996508cv1a.jpg",
+          "offers": [
+            {
+              "text": "Free Shipping",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?id=cat12178&type=page&contentId=1043363793988&h=287",
+              "id": "FS"
+            },
+            {
+              "text": "Delivery, Hook-Up and Recycling Included",
+              "url": "http:\/\/www.bestbuy.com\/site\/olspage.jsp?type=category&id=pcmcat175400050000",
+              "id": "promo135700050000"
+            }
+          ],
+          "warrantyLabor": "18 months",
+          "source": "bestbuy",
+          "releaseDate": null,
+          "modelNumber": "KDL-46XBR8",
+          "longDescription": "Learn more\nabout Magnolia Premium\nInstallation &nbsp; \nThis 46\" flat-panel HDTV features a TRILUMINOS RGB dynamic LED backlight display to ensure dazzling color performance and true 1080p high-definition images.",
+          "onlineAvailabilityUpdateDate": "2008-10-16T01:32:05",
+          "startDate": "2008-10-14",
+          "subclassId": 3987,
+          "angleImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/8996\/8996508_ra.jpg",
+          "thumbnailImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/8996\/8996508_r.gif",
+          "leftViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/8996\/8996508le.jpg",
+          "type": "HardGood",
+          "productId": 1218008113715,
+          "orderable": "Available",
+          "categoryPath": [
+            {
+              "name": "Best Buy",
+              "id": "cat00000"
+            },
+            {
+              "name": "TV & Video",
+              "id": "abcat0100000"
+            },
+            {
+              "name": "Televisions",
+              "id": "abcat0101000"
+            },
+            {
+              "name": "Flat-Panel TVs",
+              "id": "abcat0101001"
+            }
+          ],
+          "mediumImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/8996\/8996508fp.gif",
+          "onSale": false,
+          "itemUpdateDate": "2009-07-30T08:11:06",
+          "affiliateUrl": null,
+          "activeUpdateDate": "2008-10-16T01:32:05",
+          "features": [
+            {
+              "feature": "Built-in HDTV tuner\nAdd HD-capable antenna to receive over-the-air high-definition broadcasts, where available. Optional set-top box required for high-definition cable or satellite programming."
+            },
+            {
+              "feature": "46\" screen size measured diagonally from corner to corner\nSo everyone gets a good view of the action."
+            },
+            {
+              "feature": "1080p display\nProvides the highest quality progressive-scan picture possible from a high-definition source."
+            },
+            {
+              "feature": "16:9 widescreen aspect ratio\nDelivers a cinema-style entertainment experience."
+            },
+            {
+              "feature": "Progressive CineMotion reverse 3:2 pulldown\nFor accurate reproduction of film-based sources."
+            },
+            {
+              "feature": "Motionflow 120Hz PRO technology\nDelivers natural motion during high-action scenes."
+            },
+            {
+              "feature": "BRAVIA 2 PRO Engine full digital video processor\nProduces crisp and clear images while optimizing the color, contrast, detail and clarity of every scene for exceptional performance."
+            },
+            {
+              "feature": "TRILUMINOS RGB dynamic LED backlight display\nAligns individual clusters of red, green and blue LEDs to produce stunning color purity."
+            },
+            {
+              "feature": "24p True Cinema\nLets you watch movies in natural, cinematic motion, the way they are seen at the cinema."
+            },
+            {
+              "feature": "Advanced Contrast Enhancer\nUses real-time image processing to adjust the contrast ratio for darker blacks and better shadow detail."
+            },
+            {
+              "feature": "Live Color Creation and x.v.Color technologies\nEnhance the lighting and color of every scene you watch."
+            },
+            {
+              "feature": "3D digital comb filter\nBrings out fine picture detail and enhances color purity."
+            },
+            {
+              "feature": "8-speaker system with S-Force Front Surround\nAllows you to hear sound from behind you without bouncing it off the wall. Steady Sound volume leveler eliminates volume fluctuations during commercials and is ideal for night viewing."
+            },
+            {
+              "feature": "Built-in digital amplifier\nFeatures a Dolby Digital decoder for thrilling, enhanced sound."
+            },
+            {
+              "feature": "Ultraslim design\nMeasures 5-3\/4\" deep. Mount to a wall with an optional wall mount kit (not included)."
+            },
+            {
+              "feature": "Digital Media Port\nLets you connect an optional Digital Media Port cradle (not included) to connect digital devices directly to your HDTV."
+            },
+            {
+              "feature": "4 HDMI inputs\nProvide an uncompressed all-digital audio\/video link for the highest quality connection and they support copy-protected HD broadcast."
+            },
+            {
+              "feature": "PC video input\nLets you connect your computer to experience high-resolution images."
+            },
+            {
+              "feature": "DMex (Digital Media Extender)\nOffers a digital connection path for optional modules that expand your entertainment options now and in the future."
+            },
+            {
+              "feature": "Inputs\nInclude 4 HDMI (3 rear, 1 side), 1 S-video (rear), 3 composite video (2 rear, 1 side), 2 component video (rear), 1 PC (rear), 6 analog audio (5 rear, 1 side) and 1 RF (rear)."
+            },
+            {
+              "feature": "Outputs\nInclude 1 optical digital audio (rear) and 1 audio (rear)."
+            },
+            {
+              "feature": "V-Chip parental controls\nKeep children from being exposed to undesirable material."
+            },
+            {
+              "feature": "ENERGY STAR qualified\nAssures a high standard of energy efficiency."
+            },
+            {
+              "feature": "BRAVIA Theater Sync technology\nAllows you to connect to BRAVIA-compatible components for expanded entertainment flexibility."
+            },
+            {
+              "feature": "Additional convenience features\nInclude trilingual (English, French, Spanish) on-screen menus, game mode, PhotoTV HD, favorite channel, picture-in-picture and power save mode to deliver convenient operational flexibility."
+            }
+          ],
+          "width": "49 1\/2\"",
+          "spin360Url": "http:\/\/images.bestbuy.com\/BestBuy_US\/en_US\/images\/global\/360\/360pop.html?sku=8996508",
+          "backViewImage": "http:\/\/images.bestbuy.com\/BestBuy_US\/images\/products\/8996\/8996508_ba.jpg",
+          "onlineAvailability": false
+        }
+      ],
+      "country": "US",
+      "lng": -97.095222,
+      "postalCode": "76051",
+      "phone": "817-442-9912",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 9-10; Sun: 11-8",
+      "lat": 32.928673,
+      "address": "1515 W State Hwy 114",
+      "distance": 25.63,
+      "storeId": 148
+    }
+  ],
+  "canonicalUrl": "\/v1\/stores(area(\"76227\",50))+products(salePrice>3000)?format=json&apiKey=5b4tk8akphtrpt8ahecqc4yk",
+  "totalTime": "0.067"
+}

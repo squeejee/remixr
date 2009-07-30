@@ -21,7 +21,7 @@ def fixture_file(filename)
 end
 
 def remix_url(url)
-  url =~ /^http/ ? url : "http://api.remix.bestbuy.com:80#{url}"
+  url =~ /^http/ ? url : "http://api.remix.bestbuy.com:80/v1#{url}"
 end
 
 def stub_get(url, filename, status=nil)

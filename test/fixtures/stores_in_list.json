@@ -1,0 +1,57 @@
+{
+  "totalPages": 1,
+  "currentPage": 1,
+  "queryTime": "0.002",
+  "from": 1,
+  "total": 3,
+  "to": 3,
+  "stores": [
+    {
+      "fullPostalCode": "55423",
+      "city": "Richfield",
+      "longName": "Best Buy - Richfield",
+      "name": "Richfield",
+      "region": "MN",
+      "country": "US",
+      "lng": -93.292557,
+      "postalCode": "55423",
+      "phone": "612-861-3917",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 9-9; Sat: 9-9; Sun: 10-7",
+      "lat": 44.863312,
+      "address": "1000 West 78th St",
+      "storeId": 281
+    },
+    {
+      "fullPostalCode": "60431",
+      "city": "Joliet",
+      "longName": "Best Buy - Joliet",
+      "name": "Joliet",
+      "region": "IL",
+      "country": "US",
+      "lng": -88.165031,
+      "postalCode": "60431",
+      "phone": "815-609-0771",
+      "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 11-7",
+      "lat": 41.580746,
+      "address": "3351 Mall Loop Dr",
+      "storeId": 307
+    },
+    {
+      "fullPostalCode": "70433",
+      "city": "Covington",
+      "longName": "Best Buy - Covington",
+      "name": "Covington",
+      "region": "LA",
+      "country": "US",
+      "lng": -90.138527,
+      "postalCode": "70433",
+      "phone": "985-892-2457",
+      "hours": "Mon: 9-9; Tue: 9-9; Wed: 9-9; Thurs: 9-9; Fri: 9-10; Sat: 9-10; Sun: 10-8",
+      "lat": 30.44239,
+      "address": "69344 Highway 21",
+      "storeId": 612
+    }
+  ],
+  "canonicalUrl": "\/v1\/stores(storeId in(307,281,612))?format=json&apiKey=5b4tk8akphtrpt8ahecqc4yk",
+  "totalTime": "0.004"
+}

@@ -1,0 +1,42 @@
+{
+  "totalPages": 45350,
+  "currentPage": 1,
+  "queryTime": "0.134",
+  "from": 1,
+  "products": [
+    {
+      "sku": 7000032
+    },
+    {
+      "sku": 16306454
+    },
+    {
+      "sku": 11467058
+    },
+    {
+      "sku": 7873884
+    },
+    {
+      "sku": 15444798
+    },
+    {
+      "sku": 9113256
+    },
+    {
+      "sku": 5797649
+    },
+    {
+      "sku": 8890961
+    },
+    {
+      "sku": 17338506
+    },
+    {
+      "sku": 9242642
+    }
+  ],
+  "total": 453500,
+  "to": 10,
+  "canonicalUrl": "\/v1\/products?show=sku&format=json&apiKey=5b4tk8akphtrpt8ahecqc4yk",
+  "totalTime": "0.163"
+}

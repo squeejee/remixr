@@ -21,12 +21,8 @@ module Remixr
     @api_key = api_key
   end
   
-  def self.default_params
-    {:apiKey => self.api_key, :format => 'json'}
-  end
-  
 end
 
 directory = File.expand_path(File.dirname(__FILE__))
 
-require File.join(directory, 'remixr', 'stores')
+require File.join(directory, 'remixr', 'client')
