@@ -21,7 +21,7 @@ module Remixr
     #   stores({:area => [76227,50]})
     #   => /v1/stores(area(76227,50))
     #  
-    #   Stores west of the Pecos
+    # Stores west of the Pecos
     #   stores({:lng => {'$lt' => -104.304199}})
     #   => /v1/stores(lng>-104.304199)
     #
@@ -35,21 +35,21 @@ module Remixr
     end
     
     # Convenience method for finding a store by zip
-    # stores.in_zip(76227)
-    # => /v1/stores(postalCode=76227)
+    #   stores.in_zip(76227)
+    #   => /v1/stores(postalCode=76227)
     def in_zip(zip)
       self.stores({'postalCode' => zip})
     end
     
     # Convenience method for finding a store by region
-    # stores.in_region('TX')
-    # => /v1/stores(region=TX)
+    #   stores.in_region('TX')
+    #   => /v1/stores(region=TX)
     def in_region(region)
       self.stores({'region' => region})
     end
     
     # Example filters:
-    #   Products under 20 bucks
+    # Products under 20 bucks
     #   products({:salePrice => {'$lt' => 20.00}})
     #   => /v1/products(salePrice<20.00)
     def products(filters={})
