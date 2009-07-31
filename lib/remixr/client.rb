@@ -9,7 +9,7 @@ module Remixr
     # Get your api_key found here http://remix.bestbuy.com/apps/register
     def initialize(api_key=nil)
       @api_key = api_key
-      @api_key ||= Remix.api_key
+      @api_key ||= Remixr.api_key
       
       @api_path = ''
       @store_filters = {}
