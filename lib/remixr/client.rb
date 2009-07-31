@@ -17,7 +17,7 @@ module Remixr
     end
     
     # Example filters:
-    #   Stores within 50 miles of ZIP 76227
+    # Stores within 50 miles of ZIP 76227
     #   stores({:area => [76227,50]})
     #   => /v1/stores(area(76227,50))
     #  
