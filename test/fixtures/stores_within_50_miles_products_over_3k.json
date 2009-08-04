@@ -4429,6 +4429,6 @@
       "storeId": 148
     }
   ],
-  "canonicalUrl": "\/v1\/stores(area(\"76227\",50))+products(salePrice>3000)?format=json&apiKey=5b4tk8akphtrpt8ahecqc4yk",
+  "canonicalUrl": "\/v1\/stores(area(\"76227\",50))+products(salePrice>3000)?format=json&apiKey=OU812",
   "totalTime": "0.067"
 }

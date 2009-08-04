@@ -11,6 +11,7 @@ class APIKeyNotSet   < StandardError; end
 
 module Remixr
   
+  # Get your API key from http://remix.bestbuy.com/apps/register
   def self.api_key
     raise APIKeyNotSet if @api_key.nil?
   

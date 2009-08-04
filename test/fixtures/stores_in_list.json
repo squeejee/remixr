@@ -52,6 +52,6 @@
       "storeId": 612
     }
   ],
-  "canonicalUrl": "\/v1\/stores(storeId in(307,281,612))?format=json&apiKey=5b4tk8akphtrpt8ahecqc4yk",
+  "canonicalUrl": "\/v1\/stores(storeId in(307,281,612))?format=json&apiKey=OU812",
   "totalTime": "0.004"
 }

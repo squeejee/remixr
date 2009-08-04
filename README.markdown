@@ -1,16 +1,17 @@
 # remixr
 
-The Ruby BestBuy Remix API gem. 
+The Ruby BestBuy [Remix API](http://remix.bestbuy.com/docs) gem. Remix is an API that gives you access to BestBuy.com's product catalog data and more. 
 
-## examples
+## Some examples
   
-See the examples directory.
 
-http://github.com/squeejee/remixr/tree/master/examples
+More in the examples folder:
 
-### docs
+[http://github.com/squeejee/remixr/tree/master/examples](http://github.com/squeejee/remixr/tree/master/examples)
 
-http://rdoc.info/projects/squeejee/remixr
+### Documentation
+
+[http://rdoc.info/projects/squeejee/remixr](http://rdoc.info/projects/squeejee/remixr)
 
 #### Copyright
 

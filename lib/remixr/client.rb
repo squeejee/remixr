@@ -61,6 +61,12 @@ module Remixr
       self
     end
     
+    
+    # Executes the search
+    # Possible options:
+    # :page - positive integer for page number
+    # :show - comma delimited string or array of field names to show
+    # :sort - array of sort info ['fieldname', 'asc|desc']
     def fetch(options={})
       opts = {:apiKey => @api_key, :format => 'json'}
       opts.merge!(scrub_options(options))
@@ -128,6 +134,14 @@ module Remixr
       
       def scrub_options(options)
         options = Mash.new(options.to_hash)
+        show = options.delete('show')
+        unless show.blank?
+          if show.is_a?(String)
+            options['show'] = show
+          elsif show.is_a?(Array)
+            options['show'] = show.join(',')
+          end
+        end
         sort = options.delete('sort')
         unless sort.blank?
           if sort.is_a?(Hash)
