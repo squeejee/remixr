@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Wynn Netherland", "Jim Mulholland"]
   s.date = %q{2009-08-04}
+  s.description = %q{wrapper for the BestBuy Remix api}
   s.email = %q{wynn@squeejee.com}
   s.extra_rdoc_files = [
     "README.markdown"

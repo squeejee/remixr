@@ -5,6 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name              = "remixr"
+    gem.description       = %Q{wrapper for the BestBuy Remix api}
     gem.summary           = %Q{wrapper for the BestBuy Remix api}
     gem.email             = "wynn@squeejee.com"
     gem.homepage          = "http://github.com/squeejee/remixr"
