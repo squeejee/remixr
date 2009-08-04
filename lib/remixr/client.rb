@@ -66,7 +66,7 @@ module Remixr
     # Possible options:
     # :page - positive integer for page number
     # :show - comma delimited string or array of field names to show
-    # :sort - array of sort info ['fieldname', 'asc|desc']
+    # :sort - hash or string of sort info {'fieldname' => 'asc|desc'}
     def fetch(options={})
       opts = {:apiKey => @api_key, :format => 'json'}
       opts.merge!(scrub_options(options))
