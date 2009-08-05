@@ -1,1 +1,160 @@
-My GitHub Page
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta id="MetaDescription" name="description" content="Squeejee open source projects on Github" />
+    <meta id="MetaKeywords" name="keywords" content="web development, Ruby on Rails, RoR, MongoDB, Twitter, UI Design, UX design" />
+    <title>
+      Squeejee open source projects
+    </title>
+    <link rel="shortcut icon" href="http://www.gravatar.com/avatar/72cef47edf22a89439ae3ed5d681dc83?s=40&amp;d=http%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-40.png" /><!--- Blueprint CSS Framework -->
+    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" /><!-- Homepage CSS -->
+    <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection" />
+    <link rel="alternate" type="application/atom+xml" title="Locomotivation" href="http://feeds.feedburner.com/locomotivation" />
+    <link rel="alternate" type="application/atom+xml" title="The Squeejee Blog" href="http://feeds.feedburner.com/squeejee" />
+  </head>
+  <body>
+    <div id='header' class='container'>
+      <h1 class='logo'>
+        <a href="/">Squeejee open source</a>
+      </h1><a href="http://github.com/squeejee"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png" alt="Fork me on GitHub" /></a>
+      <div class='span-15'>
+        <div class='content'>
+          <ul class='project-menu'>
+            <li class='source'>
+              <a href='http://github.com/squeejee/remixr'>Source</a>
+            </li>
+            <li class='docs'>
+              <a href='http://rdoc.info/projects/squeejee/remixr'>Docs</a>
+            </li>
+            <li class='issues'>
+              <a href='http://rdoc.info/projects/squeejee/remixr/issues'>Issues</a>
+            </li>
+          </ul>
+          <h2>
+            Remixr
+          </h2>
+          <p>
+            Ruby wrapper for the <a href="http://remix.bestbuy.com/">BestBuy Remix API</a>.
+          </p>
+          <div id="readme" class="announce">
+            <span class="name">README.markdown</span>
+            <div class="wikistyle">
+              <h1>
+                remixr
+              </h1>
+              <p>
+                The Ruby BestBuy <a href="http://remix.bestbuy.com/docs">Remix API</a> gem. Remix is an API that gives you access to BestBuy.com's product catalog data and more.
+              </p>
+              <h2>
+                Install
+              </h2>
+              <pre>
+<code>sudo gem install remixr
+        </code>
+</pre>
+              <h2>
+                Usage
+              </h2>
+              <pre>
+<code>Remixr.api_key = 'OU812' # get yours from http://remix.bestbuy.com/apps/register
+        client = Remixr::Client.new
+        </code>
+</pre>
+              <h3>
+                Find stores
+              </h3>
+              <pre>
+<code># find stores within 50 miles of ZIP 76227
+        stores = client.stores({:area =&gt; ['76227', 50]}).fetch.stores
+
+        stores.first
+
+        =&gt; {"city"=&gt;"Denton", "longName"=&gt;"Best Buy - Denton", "name"=&gt;"Denton", "region"=&gt;"TX", "address"=&gt;"1800 S Loop 288, Ste 102 Bldg 1 ", "country"=&gt;"US", "lng"=&gt;-97.10067, "postalCode"=&gt;"76205", "phone"=&gt;"940-384-9581", "hours"=&gt;"Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 11-8", "storeId"=&gt;827, "fullPostalCode"=&gt;"76205", "lat"=&gt;33.192524, "distance"=&gt;9.79}
+
+        </code>
+</pre>
+              <h3>
+                Find products
+              </h3>
+              <pre>
+<code># fetch first page of products on sale below 20 bucks
+        products = client.products({:salePrice =&gt; {'$lt' =&gt; 20.00}}).fetch.products
+
+        # fetch only SKU and salePrice 
+        products = client.products({:salePrice =&gt; {'$lt' =&gt; 20.00}}).fetch.products
+        </code>
+</pre>
+              <h3>
+                Chaining
+              </h3>
+              <p>
+                You can also chain <code>stores</code> and <code>products</code> to return stores and nested product info or vice versa
+              </p>
+              <pre>
+<code># find stores within 50 miles of ZIP 76227 and products over three G's
+
+        stores = client.stores({:area =&gt; ['76227', 50]}).products({:salePrice =&gt; {'$gt' =&gt; 3000}}).fetch.stores
+
+        stores.first.products.first.shortDescription
+
+        #=&gt; "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio"
+
+        </code>
+</pre>
+              <h3>
+                Fetching
+              </h3>
+              <p>
+                All calls terminate in a call to <code>fetch</code> which takes the following options
+              </p>
+              <pre>
+<code>:page - positive integer for page number
+        :show - comma delimited string or array of field names to show
+        :sort - hash or string of sort info {'fieldname' =&gt; 'asc|desc'}
+        </code>
+</pre>
+              <h3>
+                Conditional operators
+              </h3>
+              <p>
+                We took a page out of <a href="http://www.mongodb.org/display/DOCS/Advanced+Queries#AdvancedQueries-ConditionalOperators%3A%3C%2C%3C%3D%2C%3E%2C%3E%3D">MongoDB's</a> playbook and mapped conditional operators to text equivalents to avoid having these be keys to hashes:
+              </p>
+              <pre>
+<code>{:salePrice =&gt; {'$gte' =&gt; 300.00}}
+        =&gt; salePrice &gt; 300.00
+
+        $gte - greater than or equal to : field &gt; value
+        $lte - less than or equal to : field &gt; value
+        $gt - greater than : field &gt; value
+        $lt - less than : field &gt; value
+        $ne - not equal to : field != value
+
+        </code>
+</pre>
+              <p>
+                More in the examples folder:
+              </p>
+              <p>
+                <a href="http://github.com/squeejee/remixr/tree/master/examples">http://github.com/squeejee/remixr/tree/master/examples</a>
+              </p>
+              <h3>
+                Documentation
+              </h3>
+              <p>
+                <a href="http://rdoc.info/projects/squeejee/remixr">http://rdoc.info/projects/squeejee/remixr</a>
+              </p>
+              <h4>
+                Copyright
+              </h4>
+              <p>
+                Copyright (c) 2009 Squeejee. See LICENSE for details.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
