@@ -60,24 +60,21 @@
               </h3>
               <pre>
 <code># find stores within 50 miles of ZIP 76227
-        stores = client.stores({:area =&gt; ['76227', 50]}).fetch.stores
+stores = client.stores({:area =&gt; ['76227', 50]}).fetch.stores
 
-        stores.first
+stores.first
 
-        =&gt; {"city"=&gt;"Denton", "longName"=&gt;"Best Buy - Denton", "name"=&gt;"Denton", "region"=&gt;"TX", "address"=&gt;"1800 S Loop 288, Ste 102 Bldg 1 ", "country"=&gt;"US", "lng"=&gt;-97.10067, "postalCode"=&gt;"76205", "phone"=&gt;"940-384-9581", "hours"=&gt;"Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 11-8", "storeId"=&gt;827, "fullPostalCode"=&gt;"76205", "lat"=&gt;33.192524, "distance"=&gt;9.79}
-
-        </code>
+=&gt; {"city"=&gt;"Denton", "longName"=&gt;"Best Buy - Denton", "name"=&gt;"Denton", "region"=&gt;"TX", "address"=&gt;"1800 S Loop 288, Ste 102 Bldg 1 ", "country"=&gt;"US", "lng"=&gt;-97.10067, "postalCode"=&gt;"76205", "phone"=&gt;"940-384-9581", "hours"=&gt;"Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-10; Sat: 10-10; Sun: 11-8", "storeId"=&gt;827, "fullPostalCode"=&gt;"76205", "lat"=&gt;33.192524, "distance"=&gt;9.79}</code>
 </pre>
               <h3>
                 Find products
               </h3>
               <pre>
 <code># fetch first page of products on sale below 20 bucks
-        products = client.products({:salePrice =&gt; {'$lt' =&gt; 20.00}}).fetch.products
+products = client.products({:salePrice =&gt; {'$lt' =&gt; 20.00}}).fetch.products
 
-        # fetch only SKU and salePrice 
-        products = client.products({:salePrice =&gt; {'$lt' =&gt; 20.00}}).fetch.products
-        </code>
+# fetch only SKU and salePrice 
+products = client.products({:salePrice =&gt; {'$lt' =&gt; 20.00}}).fetch.products</code>
 </pre>
               <h3>
                 Chaining
@@ -87,14 +84,9 @@
               </p>
               <pre>
 <code># find stores within 50 miles of ZIP 76227 and products over three G's
-
-        stores = client.stores({:area =&gt; ['76227', 50]}).products({:salePrice =&gt; {'$gt' =&gt; 3000}}).fetch.stores
-
-        stores.first.products.first.shortDescription
-
-        #=&gt; "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio"
-
-        </code>
+stores = client.stores({:area =&gt; ['76227', 50]}).products({:salePrice =&gt; {'$gt' =&gt; 3000}}).fetch.stores
+stores.first.products.first.shortDescription
+#=&gt; "ENERGY STAR Qualified 4 HDMI inputs; gray Touch of Color bezel; 16:9 aspect ratio"</code>
 </pre>
               <h3>
                 Fetching
@@ -116,15 +108,13 @@
               </p>
               <pre>
 <code>{:salePrice =&gt; {'$gte' =&gt; 300.00}}
-        =&gt; salePrice &gt; 300.00
+=&gt; salePrice &gt; 300.00
 
-        $gte - greater than or equal to : field &gt; value
-        $lte - less than or equal to : field &gt; value
-        $gt - greater than : field &gt; value
-        $lt - less than : field &gt; value
-        $ne - not equal to : field != value
-
-        </code>
+$gte - greater than or equal to : field &gt; value
+$lte - less than or equal to : field &gt; value
+$gt - greater than : field &gt; value
+$lt - less than : field &gt; value
+$ne - not equal to : field != value</code>
 </pre>
               <p>
                 More in the examples folder:
