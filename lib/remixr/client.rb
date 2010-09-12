@@ -4,7 +4,7 @@ module Remixr
     base_uri 'api.remix.bestbuy.com/v1'
     format :json
     
-    attr_reader :api_key, :store_filters, :product_filters
+    attr_reader :api_key, :store_filters, :product_filters, :category_filters
     
     # Get your api_key found here http://remix.bestbuy.com/apps/register
     def initialize(api_key=nil)
@@ -14,6 +14,7 @@ module Remixr
       @api_path = ''
       @store_filters = {}
       @product_filters = {}
+      @category_filters = {}
     end
     
     # Example filters:
@@ -61,6 +62,19 @@ module Remixr
       self
     end
     
+    # Example filters:
+    # Products in Gift Center
+    #   categories({:name => "Gift Center"})
+    #   GET /v1/categorie(name=”Gift Center”)
+    def categories(filters={})
+      unless @api_path.include?('categories()')
+        @api_path += '+' unless @api_path.blank?
+        @api_path += "categories()"
+      end
+      @category_filters.merge!(filters)
+      self
+    end
+    
     
     # Executes the search
     # Possible options:
@@ -73,6 +87,7 @@ module Remixr
       
       apply_store_filters
       apply_product_filters
+      apply_category_filters
       @api_path = URI.escape(@api_path)
       response = self.class.get("/" + @api_path, :query => opts)
       @api_path = ''
@@ -93,6 +108,14 @@ module Remixr
           @api_path.gsub!("products()", "products")
         else
           @api_path.gsub!("products()", "products(#{filter_params_string(@product_filters)})")
+        end
+      end
+      
+      def apply_category_filters
+        if @category_filters.keys.blank? 
+          @api_path.gsub!("categories()", "categories")
+        else
+          @api_path.gsub!("categories()", "categories(#{filter_params_string(@category_filters)})")
         end
       end
       
