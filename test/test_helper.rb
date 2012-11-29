@@ -5,6 +5,15 @@ require 'matchy'
 require 'mocha'
 require 'fakeweb'
 
+# need rails for our tests to run
+gem 'actionpack', '>= 3.0.0'
+gem 'activesupport', '>= 3.0.0'
+gem 'activemodel', '>= 3.0.0'
+gem 'railties', '>= 3.0.0'
+
+require 'action_controller/railtie'
+
+
 FakeWeb.allow_net_connect = false
 
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
