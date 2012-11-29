@@ -2,5 +2,5 @@ pkg
 .DS_Store
 log
 doc
-rmixr-*.gem
+remixr-*.gem
 rdoc
